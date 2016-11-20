@@ -29,7 +29,7 @@ WPBootscore includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - nov 20 2016 =
 * Initial release
 
 == Credits ==
